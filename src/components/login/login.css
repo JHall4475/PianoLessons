@@ -3,10 +3,11 @@ textarea, select, input, button { outline: none; }
 .login-wpr {
     height: 100vh;
     width:100%;
-    background-color: brown;
+    background-color: rgb(87, 49, 27);
     display:flex;
     flex-direction: column;
     align-items: center;
+    border: 1px solid black;
 
 
 }
